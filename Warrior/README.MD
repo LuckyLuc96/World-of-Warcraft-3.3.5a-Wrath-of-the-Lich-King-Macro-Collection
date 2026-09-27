@@ -1,4 +1,6 @@
-These are stance specific abilities that can be consolidated to one button.
+# 🐉 World of Warcraft 3.3.5a (Wrath of the Lich King) Macro Collection
+
+# Warrior Edition
 
 # Hamstring/Disarm
 
@@ -8,7 +10,7 @@ These are stance specific abilities that can be consolidated to one button.
 /cast [stance:2] Disarm
 ```
 
-@ Charge, Intervene, Intercept
+# Charge, Intervene, Intercept
 
 ```lua
 #showtooltip
